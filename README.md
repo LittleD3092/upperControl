@@ -13,3 +13,6 @@ This ROS package is responsible for communicating between Arduino and nuc.
 Once receiving the command from main_control, 
 it will send the motion command to Arduino which is responsible for upper control.
   
+## Credit
+
+## License
